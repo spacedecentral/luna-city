@@ -54,7 +54,3 @@ As part of the set of deliverables for this proposal, an enhancement plan will b
 Ultimately, we do not want to build smart contracts that are “married” to Github, although we expect that it may take some time until all organizations fully transfer to the decentralized git solution, so offering cross-compatibility may be the best approach.
 
 Please review the [White Paper](http://goo.gl/eXAybm) for full details.
-
-### Design Concepts
-![Img1](https://www.dropbox.com/s/oy2d72e4v9yfdbi/ara_planning.png?dl=0)
-![Img2](https://www.dropbox.com/s/iq5g2nd1b7m41k3/ara_planning2.png?dl=0)
