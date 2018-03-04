@@ -2,7 +2,7 @@
 
 **Team name**: "That Planning Tab"
 
-**Proof of concept / research whitepaper**: goo.gl/eXAybm
+**Research whitepaper**: [White paper](http://goo.gl/eXAybm)
 
 **Burn rate**: $25,000/month for 6 months 
 * $20,000/month for Full-time team
@@ -29,8 +29,8 @@ We believe that these features are very important for DAOs, as the application t
 ### Details
 
 An organization should be able to seamlessly create and manage multiple projects using a Planning app. The basic system would require:
-* ** Voting Patterns: ** Create two new voting patterns to support range voting and consensus-based voting. These patterns would be able to be utilized on various planning tools.
-* ** Range Voting: ** Allowing for votes to be placed as a range of numerals. This pattern can be applied to various tools such as issue curation and collective budgeting. 
+* **Voting Patterns:** Create two new voting patterns to support range voting and consensus-based voting. These patterns would be able to be utilized on various planning tools.
+* **Range Voting:** Allowing for votes to be placed as a range of numerals. This pattern can be applied to various tools such as issue curation and collective budgeting. 
 * Consensus Voting: A consensus voting smart contract would allow for special voting sessions to be created, where the aim is to reach consensus among the voting session participants.
 * Github Integration: Before we can utilize the decentralized git tool, it would be ideal to have an integration with a Github-based bounty system to provide immediate utility to Aragon DAOs. 
 * Task Planning Toolkit: Tools should be added to the Planning app that allow issues to be collectively prioritized in addition to applying bulk bounties.
