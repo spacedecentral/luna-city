@@ -36,13 +36,13 @@ An organization should be able to seamlessly create and manage multiple projects
 * Task Planning Toolkit: Tools should be added to the Planning app that allow issues to be collectively prioritized in addition to applying bulk bounties.
 * Issue Curation: In the Planning app, token holders or project members will be able to curate / prioritize the top issues that should be developed.
 * Bulk Bounties: Smart contracts will be developed that allow bounties to be allocated to Github issues in a bulk-fashion.
- * Off-Chain Estimates: The bounty estimates are determined off-chain or are input by a single party, yet require an approval vote from the DAO
- * On-Chain Estimates: Consensus or range voting contract is utilized for members to collectively estimate the value of task bounties. (Planning Poker)
+  * Off-Chain Estimates: The bounty estimates are determined off-chain or are input by a single party, yet require an approval vote from the DAO
+  * On-Chain Estimates: Consensus or range voting contract is utilized for members to collectively estimate the value of task bounties. (Planning Poker)
 * Financial Planning Toolkit: Tools should be added to the Planning app that allow for collective budgeting in addition to distributing rewards and dividends to token holders.
-* Fixed Payout: Payroll contract that allows an easy way to setup a recurring fixed allocations to projects or other DAOs.
-* Dynamic Payout: Payroll contract that allows for dynamic allocations that are determined using range voting.
-* Payout Engine: Pay sharing contract using a percentage-based distribution system, where the percentages are determined using range voting.
-* Rewards Engine: Distributes payments to token holders based on the number of tokens one has earned in a specific cycle of time (one-time reward) or based on the total tokens one holds (dividend).
+  * Fixed Payout: Payroll contract that allows an easy way to setup a recurring fixed allocations to projects or other DAOs.
+  * Dynamic Payout: Payroll contract that allows for dynamic allocations that are determined using range voting.
+  * Payout Engine: Pay sharing contract using a percentage-based distribution system, where the percentages are determined using range voting.
+  * Rewards Engine: Distributes payments to token holders based on the number of tokens one has earned in a specific cycle of time (one-time reward) or based on the total tokens one holds (dividend).
 
 #### Stretch Goals
 * Project Proposal: Creating a user flow that makes the Project Proposal process more efficient.
