@@ -30,14 +30,14 @@ We believe that these features are very important for DAOs, as the application t
 
 An organization should be able to seamlessly create and manage multiple projects using a Planning app. The basic system would require:
 * **Voting Patterns:** Create two new voting patterns to support range voting and consensus-based voting. These patterns would be able to be utilized on various planning tools.
-* **Range Voting:** Allowing for votes to be placed as a range of numerals. This pattern can be applied to various tools such as issue curation and collective budgeting. 
-* Consensus Voting: A consensus voting smart contract would allow for special voting sessions to be created, where the aim is to reach consensus among the voting session participants.
-* Github Integration: Before we can utilize the decentralized git tool, it would be ideal to have an integration with a Github-based bounty system to provide immediate utility to Aragon DAOs. 
-* Task Planning Toolkit: Tools should be added to the Planning app that allow issues to be collectively prioritized in addition to applying bulk bounties.
-* Issue Curation: In the Planning app, token holders or project members will be able to curate / prioritize the top issues that should be developed.
-* Bulk Bounties: Smart contracts will be developed that allow bounties to be allocated to Github issues in a bulk-fashion.
-  * Off-Chain Estimates: The bounty estimates are determined off-chain or are input by a single party, yet require an approval vote from the DAO
-  * On-Chain Estimates: Consensus or range voting contract is utilized for members to collectively estimate the value of task bounties. (Planning Poker)
+  * **Range Voting:** Allowing for votes to be placed as a range of numerals. This pattern can be applied to various tools such as issue curation and collective budgeting. 
+  * **Consensus Voting:** A consensus voting smart contract would allow for special voting sessions to be created, where the aim is to reach consensus among the voting session participants.
+* **Github Integration:** Before we can utilize the decentralized git tool, it would be ideal to have an integration with a Github-based bounty system to provide immediate utility to Aragon DAOs. 
+* **Task Planning Toolkit:** Tools should be added to the Planning app that allow issues to be collectively prioritized in addition to applying bulk bounties.
+  * **Issue Curation:** In the Planning app, token holders or project members will be able to curate / prioritize the top issues that should be developed.
+  * **Bulk Bounties:** Smart contracts will be developed that allow bounties to be allocated to Github issues in a bulk-fashion.
+    * **Off-Chain Estimates:** The bounty estimates are determined off-chain or are input by a single party, yet require an approval vote from the DAO
+    * **On-Chain Estimates:** Consensus or range voting contract is utilized for members to collectively estimate the value of task bounties. (Planning Poker)
 * Financial Planning Toolkit: Tools should be added to the Planning app that allow for collective budgeting in addition to distributing rewards and dividends to token holders.
   * Fixed Payout: Payroll contract that allows an easy way to setup a recurring fixed allocations to projects or other DAOs.
   * Dynamic Payout: Payroll contract that allows for dynamic allocations that are determined using range voting.
